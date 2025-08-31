@@ -1,0 +1,6 @@
+streamlit>=1.36.0
+langdetect>=1.0.9
+transformers>=4.42.0
+torch>=2.2.0
+tokenizers>=0.15.2
+openai>=1.35.0

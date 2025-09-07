@@ -90,19 +90,6 @@ The bot auto-detects input language and replies in the same language. It *also* 
 
 ---
 
-## 🎥 2–4 min Screen Recording (What to Cover)
-Record a quick video (OBS, Loom, or Screencast):
-1. **Overview**: Architecture + language detection + backends.
-2. **Run Demo**: Show both Streamlit and CLI.
-3. **Examples**: Ask 2–3 questions in English/Hindi/Telugu.
-4. **Thought Process**: Why teacher-style structure; fallback design.
-
-Upload the video to Google Drive / YouTube (Unlisted) and paste the link here:
-
-**Video link:** _ADD_YOUR_LINK_HERE_
-
----
-
 ## 🧪 Sample Prompts to Try
 - English: "Explain photosynthesis to a 10-year-old."
 - Hindi: "एंटीबायोटिक रेसिस्टेंस क्या है? उदाहरण दें।"
